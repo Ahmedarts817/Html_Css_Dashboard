@@ -1,0 +1,8 @@
+@media (max-width: 767px) {
+}
+
+
+<div class="toggle-switch">
+    <label for="check"></label>
+    <input class="toggle p-relative" type="checkbox" name="" id="check">
+</div>
